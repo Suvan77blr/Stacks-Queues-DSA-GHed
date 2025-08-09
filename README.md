@@ -6,3 +6,4 @@
     - [Circular Queue w/ Arrays](./01_Implementation/01_3-Array-CIR-QUE.cpp)
 
     - [Stack w/ LL](./01_Implementation/01_4-LL-STK.cpp)
+    - [Queue w/ LL](./01_Implementation/01_5-LL-QUE.cpp)
