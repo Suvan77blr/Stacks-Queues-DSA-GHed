@@ -7,3 +7,5 @@
 
     - [Stack w/ LL](./01_Implementation/01_4-LL-STK.cpp)
     - [Queue w/ LL](./01_Implementation/01_5-LL-QUE.cpp)
+
+    - Stack from QUEUEs: [Two Queues](./01_Implementation/01_6-Stack-From-QUE_2queues.cpp) , [Single Queue](./01_Implementation/01_6-Stack-From-QUE_1queue.cpp) .
