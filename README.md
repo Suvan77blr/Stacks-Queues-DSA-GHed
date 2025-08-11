@@ -17,3 +17,5 @@
 * Arithemetic-Exprs
     - [INFIX to POSTFIX Conversion](./03_Arithemetic-Expressions/03_1-In-TO-Postfix.cpp)
     - [INFIX to PREFIX Conversion](./03_Arithemetic-Expressions/03_2-In-TO-Prefix.cpp)
+
+    - [POSTFIX to INFIX Cnvtion](./03_Arithemetic-Expressions/03_3-Post-TO-INFIX.cpp)
