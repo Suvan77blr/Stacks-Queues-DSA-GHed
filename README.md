@@ -19,3 +19,4 @@
     - [INFIX to PREFIX Conversion](./03_Arithemetic-Expressions/03_2-In-TO-Prefix.cpp)
 
     - [POSTFIX to INFIX Cnvtion](./03_Arithemetic-Expressions/03_3-Post-TO-INFIX.cpp)
+    - [PREFIX to INFIX Cnvtion](./03_Arithemetic-Expressions/03_4-Pre-TO-INFIX.cpp)
