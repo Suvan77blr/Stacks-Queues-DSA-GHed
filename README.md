@@ -23,3 +23,6 @@
     
     - [POSTFIX to PREFIX Cnvtion](./03_Arithemetic-Expressions/03_5-Post-TO-PREFIX.cpp)
     - [PREFIX to POSTFIX Cnvtion](./03_Arithemetic-Expressions/03_6-Pre-TO-POSTFIX.cpp)
+
+* Other Problems:
+    - Min-Stack: [Using MATH-ENCODING & stk<int>](./77_OthProbs/OthProbs_1a-Min-Stack_OPTI.cpp) , [Using stk<pii>](./77_OthProbs/OthProbs_1b-Min-Stack_PII.cpp)
