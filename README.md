@@ -22,3 +22,4 @@
     - [PREFIX to INFIX Cnvtion](./03_Arithemetic-Expressions/03_4-Pre-TO-INFIX.cpp)
     
     - [POSTFIX to PREFIX Cnvtion](./03_Arithemetic-Expressions/03_5-Post-TO-PREFIX.cpp)
+    - [PREFIX to POSTFIX Cnvtion](./03_Arithemetic-Expressions/03_6-Pre-TO-POSTFIX.cpp)
