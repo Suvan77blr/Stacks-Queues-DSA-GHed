@@ -29,6 +29,7 @@
     - [Next-Smaller-Element (NSE) ](./04_Monotonic-Stack/04_2-NSE.cpp)
     - [Prev-Greater-Element (PGE) ](./04_Monotonic-Stack/04_3-PGE.cpp)
     - [Prev-Smaller-Element (PSE) ](./04_Monotonic-Stack/04_4-PSE.cpp)
+    - [Circular NGE](./04_Monotonic-Stack/04_5-Circular-NGE.cpp)
 
 * Other Problems:
     - Min-Stack: [Using MATH-ENCODING & stk<int>](./77_OthProbs/OthProbs_1a-Min-Stack_OPTI.cpp) , [Using stk<pii>](./77_OthProbs/OthProbs_1b-Min-Stack_PII.cpp)
