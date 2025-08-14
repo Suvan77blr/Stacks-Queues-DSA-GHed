@@ -33,3 +33,4 @@
 
 * Other Problems:
     - Min-Stack: [Using MATH-ENCODING & stk<int>](./77_OthProbs/OthProbs_1a-Min-Stack_OPTI.cpp) , [Using stk<pii>](./77_OthProbs/OthProbs_1b-Min-Stack_PII.cpp)
+    - [Trapping RainWater](./77_OthProbs/OthProbs_2-Trapping-Rainwater.cpp)
