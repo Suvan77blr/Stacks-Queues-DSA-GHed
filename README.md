@@ -32,5 +32,8 @@
     - [Circular NGE](./04_Monotonic-Stack/04_5-Circular-NGE.cpp)
 
 * Other Problems:
-    - Min-Stack: [Using MATH-ENCODING & stk<int>](./77_OthProbs/OthProbs_1a-Min-Stack_OPTI.cpp) , [Using stk<pii>](./77_OthProbs/OthProbs_1b-Min-Stack_PII.cpp)
-    - [Trapping RainWater](./77_OthProbs/OthProbs_2-Trapping-Rainwater.cpp)
+    1. Min-Stack: [Using MATH-ENCODING & stk<int>](./77_OthProbs/OthProbs_1a-Min-Stack_OPTI.cpp) , [Using stk<pii>](./77_OthProbs/OthProbs_1b-Min-Stack_PII.cpp)
+    2. [Trapping RainWater](./77_OthProbs/OthProbs_2-Trapping-Rainwater.cpp)
+    3. - [Sum of Subarray MINimums](./77_OthProbs/OthProbs_3a-Sum-SubArr-MINS.cpp)
+       - [Sum of Subarray MAXimums](./77_OthProbs/OthProbs_3b-Sum-SubArr-MAXS.cpp) 
+       - [Sum of Subarray RANGES](./77_OthProbs/OthProbs_3c-Sum-SubArr-RANGES.cpp)
